@@ -16,5 +16,6 @@ To alias the domain:
 
 The function returns a 301 permanent redirect status.
 
-Customization
+## Customization
+
 To customize the redirect logic, edit the api/index.js file.
